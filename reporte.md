@@ -6,6 +6,7 @@
 | **Integrante 2** | Paulo Esteban Ordóñez Gutiérrez |
 | **Repositorio (fork)** | https\://github.com/jorgenavia-pzk/xv6-riscv |
 | **Servicio de IA y modelo** | Claude (Anthropic), claude.ai / app de Claude. Modelo: Claude Sonnet 5.5 |
+| **Enlace a la conversación (Prompt 1)** | https://claude.ai/share/b6d4c78e-088c-457e-b652-8358ac5faf7d |
 | **Fecha de la consulta con IA** | 16/11/2026 (diálogo del Prompt 1); conversación de apoyo desde el 13/11/2026 |
 
 ---
